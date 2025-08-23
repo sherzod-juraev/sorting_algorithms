@@ -20,6 +20,3 @@ Type checking included (isinstance(array, list)).
 Slight deviations from the classical method are used for educational clarity.
 
 Compatible with Python 3.x.
-
- License
-This project is open-source and can be used for any purpose.
